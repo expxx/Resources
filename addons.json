@@ -5,5 +5,12 @@
     "version": {
       "prod": "2.0.0"
     }
+  },
+  "submngr": {
+    "discontinued": false,
+    "latest_download": "",
+    "version": {
+      "prod": "ALPHA-0.0.1"
+    }
   }
 }
