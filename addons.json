@@ -7,7 +7,7 @@
     }
   },
   "submngr": {
-    "discontinued": false,
+    "discontinued": true,
     "latest_download": "",
     "version": {
       "prod": "ALPHA-0.0.1"
